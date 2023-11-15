@@ -1,0 +1,21 @@
+Data Source : Airbnb Data
+steps: 
+
+importing libraries
+Loading Data
+Data Exploration
+Data Cleaning
+Basic Statistics
+Visualization
+Time Series Analysis
+Correlation Analysis
+Data Insights
+
+Data Insights:
+
+Broadway is the most visited
+Roxhill is the least visited
+most people prefere appartment and houses
+there is heigh variance in prices
+price is mostly correlated linearly with host_listing_count and reviews_per_month
+price gets heigher with time
